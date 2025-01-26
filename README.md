@@ -1,1 +1,2 @@
 # CreditCard-Financial-Analysis-PowerBI
+This project is a comprehensive analysis of credit card transactions and customer data, focusing on insights derived from two main perspectives: Transaction Report and Customer Report. The dashboard was created using SQL for data storage and manipulation, and Power BI for data visualization and analysis. The project integrates real-time data updates, calculated measures, and custom columns to provide actionable insights.
